@@ -45,6 +45,7 @@ export const PROJECTS = [
     description:
       "Movie Box is an interactive platform designed for movie enthusiasts to watch trailers, discover upcoming releases, and stay updated on popular films. Users can create personal accounts to save favorites, rate trailers, and engage with a community of fellow movie lovers.",
     technologies: ["Reactjs"],
+    link: "https://movies-box-t3b2.vercel.app/",
   },
   {
     title: "Task Management App",
@@ -52,6 +53,7 @@ export const PROJECTS = [
     description:
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
     technologies: ["HTML", "CSS", "Flask", "Firebase"],
+    link: "https://example-taskmanager.com", // Example link
   },
   {
     title: "Travel Journal",
@@ -59,13 +61,15 @@ export const PROJECTS = [
     description:
       "A collaborative project focused on creating a personal travel diary platform. Users can document travel experiences, share photos, and keep track of visited locations in an organized, interactive format",
     technologies: ["HTML", "CSS", "Reactjs", "Flask", "postrgesql"],
+    link: "https://travel-journal-six-eta.vercel.app/",
   },
   {
-    title: "Learning Management system",
+    title: "Learning Management System",
     image: project4,
     description:
       "A collaborative project aimed at developing a comprehensive platform for managing and delivering educational content. This system allows educators to upload resources, track student progress, and provide an interactive learning environment.",
     technologies: ["HTML", "Reactjs", "postgresql", "Flask"],
+    link: "https://learning-platform-client-alpha.vercel.app",
   },
 ];
 
